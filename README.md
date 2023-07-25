@@ -7,7 +7,7 @@ only a text description
 
 ## Demo
 
-[Demo video that shows the work of our package]("https://drive.google.com/file/d/1jZw0fIcXW2txRJo6WXRLQ2ZSTbHYlzpN/view?usp=sharing")
+[Demo video that shows the work of our package](https://drive.google.com/file/d/1jZw0fIcXW2txRJo6WXRLQ2ZSTbHYlzpN/view?usp=sharing)
 
 ## Getting started
 
@@ -49,7 +49,7 @@ Widget newWidget(String text){
   );
 }
 ```
-instead of the getColor function, you can use updateColor, which does not use the database, 
+Instead of the getColor function, you can use updateColor, which does not use the database, 
 but sends a new request to ChatGPT each time
 
 

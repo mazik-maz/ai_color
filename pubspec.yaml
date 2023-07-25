@@ -1,8 +1,8 @@
 name: ai_color
 description: This is a package that will help users quickly find the necessary colors for their 
   projects using only a text description
-version: 1.0.0
-repository:
+version: 1.0.1
+repository: https://github.com/mazik-maz/ai_color
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
